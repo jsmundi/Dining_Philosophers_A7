@@ -1,0 +1,2 @@
+# Dining_Philosophers_A7
+Write a program (in C) called philo.c targeted at the Linux platform. This program must fork 5 child processes, each representing one philosopher. Using shared memory and/or semaphores, have each philosopher repeat a cycle of eating and thinking until all philosophers have eaten for at least 100 seconds (at which point a philosopher will ”leave the table”... terminate). Using the IPC system
